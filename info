@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>About Spacelase.rs</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="https://cdn.simplecss.org/simple.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <header>
+      <h1>Spacelase.rs</h1>
+      <a href="#welcome">Welcome</a>
+      &emsp;
+      <a href="#privacy">Privacy, Anonymity, and Moderation</a>
+    </header>
+
+    <main>
+      <h2>
+        <a id="welcome">Welcome to Spacelasers!</a>
+      </h2>
+
+      <p>You’ve joined a fun, small instance for trusted friends and acquaintances.
+        If you are new to Mastodon, you might be feeling a bit confused about
+        what to do next. Don’t worry, help is on the way.
+      </p>
+      <p>Here are some things to help get you started:</p>
+
+      <ol>
+        <li>
+          Unlike other social media sites, <strong>Mastodon doesn’t present
+          you with suggested accounts to follow</strong>. Instead, it’s
+          important to do some work at the start to find good people to follow.
+        </li>
+        <li>
+          <strong>Check out the “Federated” tab to the right of the page.</strong>
+          It’s a feed of all the accounts that current Spacelasers users follow,
+          with some other accounts followed by <em>those</em> accounts thrown in.
+          Follow people liberally. Once you do this, you will see their posts
+          and their “boosts” (reposts) in your feed. You may also want to follow
+          the boosted accounts. You can always unfollow accounts later; what’s
+          important is that you start getting a taste of who is out there,
+          and what they are talking about.
+        </li>
+        <li>
+          <strong>Search hashtags</strong>. Since there is no global search in
+          Mastodon (you can only search for people and hashtags), hashtags are
+          important. And they work differently in Mastodon than in Twitter. In
+          Mastodon, they help you find and join conversations. Check out the
+          hashtags to the right of the Mastodon homepage under “Explore.”
+        </li>
+        <li>
+          You can <strong>follow hashtags</strong> so that posts with them appear
+          in your feed. Click the icon to the top right when conducting a search.
+          <br>
+          <strong>Note: Hashtags also let <em>other</em> people see <em>you</em>.
+          If you want to be discovered by likeminded folks, use hashtags!</strong>
+        </li>
+        <li>
+          <strong>Federation is complicated</strong>. When you follow the suggestions
+          above, you’ll start seeing more and more posts in your feed, and you
+          can start interacting with more and more people. However, you’re only
+          seeing the people and the posts that our particular server knows about
+          (based on people and instances that are followed by Spacelasers users).
+          There are thousands of servers, and millions of people, out there.
+          As this instance grows and, especially, as our users follow more people,
+          we will be exposed to more servers and thus, more people. That, in turn,
+          will make hashtag searches more useful and will help you be discovered
+          by others.
+        </li>
+        <li>
+          <strong>Check out the “Local” feed</strong>. It’s only posts from
+          Spacelasers users. It’s a fun way to find out who else is here.
+        </li>
+        <li>
+          Here are some other good tips from <a
+            href="https://hachyderm.io/@liztai/109678901153556071">@liztai@hachyderm.io</a>:
+          <blockquote>
+            <ol>
+              <li>Follow people who engage, are kind &amp; classy</li>
+              <li>Respond to people’s posts. Don’t just blast your content &amp; ignore.</li>
+              <li>Block mercilessly. Don’t bother engaging with trolls.</li>
+              <li>Follow happy hashtags like #CatsOfMastodon and #Bookstodon</li>
+            </ol>
+          </blockquote>
+        </li>
+      </ol>
+
+      <p>Have fun! It takes some time to unwind the behaviors that algorithmic
+        social media has ingrained in us. Mastodon isn’t about how many followers
+        you have, or making that perfect comment on a trending topic. It’s not
+        about being aggressive and angry. It was intentionally designed to
+        encourage a friendly, respectful conversational flow that, over time,
+        you might find pretty fun and relaxing. Rather than walk away feeling
+        anxious and angry, you may find yourself feeling happy knowing
+        that you are part of a safe, friendly online community.
+      </p>
+      <p>
+        Always ask <a href="https://spacelase.rs/@josh">@josh</a>
+        about anything and everything. He’s here to help :).
+      </p>
+
+      <h2>
+        <a id="privacy">On Privacy, Anonymity, and Moderation</a>
+      </h2>
+
+      <p>
+        <a href="https://spacelase.rs">Spacelase.rs</a> is a small Mastodon
+        instance for friends and kindred spirits interested in tech, music, art,
+        books, running, dogs, cats, and the other good things in life.
+        We believe in human rights, equality, justice, and kindness.
+        We do not tolerate harassment of participants in any form.
+      </p>
+
+      <ul>
+        <li>
+          We believe strongly in our users’ rights to anonymity and privacy
+        </li>
+        <li>
+          We moderate heavily to ensure a safe space for people to share and connect
+        </li>
+        <li>
+          By signing up to use our this instance, you agree to the
+          <a href="https://spacelase.rs/about">Code of Conduct</a>
+        </li>
+        <li>
+          Spacelasers admins’ primary responsibility is to protect our users
+          from harassment, abuse, or exposure to unwanted content. We have the
+          right to suspend users’ accounts at any time if they fail to adhere
+          to the stated Code of Conduct
+        </li>
+        <li>
+          Remember that direct messages on Mastodon are <strong>not</strong>
+          truly private. They are not encrypted and their contents are viewable
+          by anyone with server access. In that case, that is
+          <a href="https://masto.host">Masto.host</a>, the trusted managed
+          hosting service.
+        </li>
+      </ul>
+
+      <p>
+        For more about our instance, please see our
+        <a href="https://spacelase.rs/about">About Spacelase.rs</a> page.
+        Always feel free to contact us with questions or concerns:
+        <a href="https://spacelase.rs/@josh">https://spacelase.rs/@josh</a> or
+        <a href="mailto:josh@spacelase.rs">josh@spacelase.rs</a>
+      </p>
+    </main>
+  </body>
+
+</html>
